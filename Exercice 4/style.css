@@ -1,0 +1,37 @@
+.container{
+    margin-top: 40px;
+}
+
+.hello{
+    background-color: rgb(212, 212, 212);
+}
+
+h1{
+    margin-top: 130px;
+    color: white;
+}
+
+.photo{
+    width: 150px;
+    height: 150px;
+    float: right;
+    border-radius: 50%;
+}
+
+.btn{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+.inputs{
+    width: 2px;
+}
+
+.pics{
+    margin: 100px;
+}
+
+
+
